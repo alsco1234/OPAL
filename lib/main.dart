@@ -3,7 +3,7 @@ import 'package:opalapp/screens/AccountInfo.dart';
 import 'package:opalapp/screens/AccountInfo.dart';
 import 'package:opalapp/screens/Recommend.dart';
 import 'package:opalapp/screens/home.dart';
-import 'package:opalapp/screens/list.dart';
+import 'package:opalapp/screens/list.dart';//er
 
 void main() => runApp(MyApp());
 
